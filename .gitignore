@@ -1,0 +1,18 @@
+__pycache__/
+*.pyc
+
+# Generated outputs and data files
+*.png
+*.pdf
+*.html
+*.xlsx
+!Example-Q4AY25.xlsx
+~$*.xlsx
+
+# Editor
+.DS_Store
+*.swp
+*~
+
+# Claude Code
+.claude/
