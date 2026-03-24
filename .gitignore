@@ -1,5 +1,6 @@
 __pycache__/
 *.pyc
+venv/
 
 # Generated outputs and data files
 *.png
